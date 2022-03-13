@@ -1,0 +1,6 @@
+/dist
+/temp
+/test
+**/dist
+**/temp
+**/test
