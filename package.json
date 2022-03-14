@@ -9,6 +9,7 @@
         "clear": "react-native start --reset-cache",
         "lint": "eslint .",
         "lint-fix": "eslint \"./**/*.{js,jsx}\" --fix",
+        "pod": "cd ios && pod update",
         "prettier": "prettier \"./**/*.{js,json}\" --write",
         "pretty": "npm run prettier && npm run lint-fix",
         "wml": "wml start",
